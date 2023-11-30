@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExpenseManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/DarkBlue</item>
+    </style>
+
+    <style name="Theme.ExpenseManager" parent="Base.Theme.ExpenseManager" />
+
+    <!--    for change date colour -->
+    <style name="CustomDatePickerDialog" parent="ThemeOverlay.MaterialComponents.Dialog">
+        <item name="colorAccent">@color/DarkBlue</item> <!-- Customize the colorAccent to your desired color -->
+    </style>
+
+</resources>

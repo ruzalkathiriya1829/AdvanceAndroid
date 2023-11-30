@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/Calendar"
+        android:icon="@drawable/cal"
+        android:title="Calendar" />
+
+    <item
+        android:id="@+id/AddCategory"
+        android:icon="@drawable/options"
+        android:title="Add Category" />
+
+    <item
+        android:id="@+id/PaymentMode"
+        android:icon="@drawable/handrs"
+        android:title="Add Payment Mode" />
+
+    <item
+        android:id="@+id/ExportedReport"
+        android:icon="@drawable/profile"
+        android:title="Exported Report" />
+
+    <item
+        android:id="@+id/Settings"
+        android:icon="@drawable/settings"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/AppLock"
+        android:icon="@drawable/lock"
+        android:title="App Lock" />
+
+    <item
+        android:id="@+id/MyVisionBoard"
+        android:icon="@drawable/bulb"
+        android:title="My Vision Board" />
+
+    </group>
+
+    <item
+        android:title="Communication">
+
+        <menu>
+
+            <item
+                android:id="@+id/Ratetheapp"
+                android:icon="@drawable/ratings"
+                android:title="Rate the app"/>
+
+            <item
+                android:id="@+id/Feedback"
+                android:icon="@drawable/feedback"
+                android:title="Feedback"/>
+
+            <item
+                android:id="@+id/Sharewithfriends"
+                android:icon="@drawable/share"
+                android:title="Share with friends"/>
+
+            <item
+                android:id="@+id/PrivacyPolicy"
+                android:icon="@drawable/insurance"
+                android:title="Privacy Policy"/>
+
+            <item
+                android:id="@+id/TermsofService"
+                android:icon="@drawable/contract"
+                android:title="Terms of Service"/>
+
+        </menu>
+    </item>
+
+
+
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="DarkBlue">#19688b</color>
+    <color name="sky">#daf5ff</color>
+    <color name="purple">#d4e8ff</color>
+    <color name="lightpurple">#4b81bf</color>
+    <color name="skin">#ffecdd</color>
+    <color name="orange">#e4893d</color>
+    <color name="pink">#fedada</color>
+    <color name="pitch">#fe7177</color>
+    <color name="colorbackgroundlight">#dfeaee</color>
+    <color name="lightpur">#F1EAFF</color>
+    <color name="Darkpur">#8E8FFA</color>
+    <color name="Yellow">#ffdc65</color>
+    <color name="blue">#3c94bc</color>
+    <color name="Gray">#ABDCDFE4</color>
+</resources>
