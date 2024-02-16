@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuetesApp</string>
+    <string name="alert_title">Choose Option</string>
+    <string name="are_you_sure">Are you Sure?</string>
+</resources>
