@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:text="Please Select From below form which is you want for image"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textview"
+        android:layout_margin="15dp"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/txtCamera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="100dp"
+            android:text="Cemera"
+            android:textStyle="bold"
+            android:textColor="#3F51B5"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/txtGallery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginLeft="100dp"
+            android:layout_toRightOf="@id/txtCamera"
+            android:text="Gallery"
+            android:textStyle="bold"
+            android:textColor="#FF0000"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

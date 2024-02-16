@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseProjectDemo</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="enter_employee_name">Enter Employee Name:</string>
+</resources>
