@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseSelf</string>
+    <string name="next">Next</string>
+
+    <string name="facebook_app_id">1367821757439627</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">2519a6fa2bc143d66571daa87368ca13</string>
+</resources>

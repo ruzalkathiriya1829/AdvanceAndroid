@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578309395418",
+    "project_id": "fir-self-1c2a3",
+    "storage_bucket": "fir-self-1c2a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578309395418:android:a395d43cf01a80306fa6e3",
+        "android_client_info": {
+          "package_name": "com.example.firebaseself"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmvJELkk22_rGwgy-fDUDijtgxJXeAJWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
