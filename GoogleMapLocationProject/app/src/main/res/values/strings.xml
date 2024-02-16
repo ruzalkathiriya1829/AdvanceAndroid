@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GoogleMapLocationProject</string>
+    <string name="title_activity_google_maps_location">GoogleMapsLocationActivity</string>
+    <string name="title_activity_draw_path">DrawPathActivity</string>
+    <string name="title_activity_simple_direction">SimpleDirectionActivity</string>
+    <string name="request_direction">Request Direction</string>
+    <string name="simple_direction">Simple Direction</string>
+    <string name="transit_direction">Transit Direction</string>
+    <string name="alternative_direction">Alternative Direction</string>
+    <string name="waypoints_direction">Waypoints Direction</string>
+    <string name="success_with_status">Success with status : %1$s</string>
+    <string name="success_with_empty">Success with empty result</string>
+    <string name="direction_requesting">Direction Requesting...</string>
+    <string name="title_activity_alternative_direction">AlternativeDirectionActivity</string>
+    <string name="title_activity_transit_direction">TransitDirectionActivity</string>
+    <string name="title_activity_waypoints_direction">WaypointsDirectionActivity</string>
+    <string name="multi_location">Multi Location</string>
+</resources>
