@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564372818107",
+    "project_id": "facebooklogin-a6b01",
+    "storage_bucket": "facebooklogin-a6b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564372818107:android:63315f7d8a2d4fb04d819e",
+        "android_client_info": {
+          "package_name": "com.example.facebooklogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClymXtxnNR8bnpv2VGLr9LRvSmzhnlf7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
